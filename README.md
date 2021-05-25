@@ -7,3 +7,4 @@ I will try to comment my code and organize it well. I will also try to create RE
 *There is no chapter one in this repository because it is just background information about the Kotlin language.*
 * Chapter 2: [Kotlin basics](https://github.com/MetalTurtle18/kotlin-learning/tree/main/src/main/kotlin/chapter2)
   * 2.1: Basic elements: functions and variables | [`BasicElements.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter2/BasicElements.kt)
+  * 2.2: Classes and properties | [`ClassesProperties.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter2/ClassesProperties.kt)
