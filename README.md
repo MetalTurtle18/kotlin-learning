@@ -11,3 +11,5 @@ I will try to comment my code and organize it well. I will also try to create RE
   * 2.3: Representing and handling choices: enums and “when” | [`Choices.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter2/Choices.kt)
   * 2.4: Iterating over things: “while” and “for” loops | [`Iterating.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter2/Iterating.kt)
   * 2.5: Exceptions in Kotlin | [`Exceptions.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter2/Exceptions.kt)
+* Chapter 3: [Defining and calling functions](https://github.com/MetalTurtle18/kotlin-learning/tree/main/src/main/kotlin/chapter3)
+  * 3.1: Creating collections in Kotlin | [`Collections.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter3/Collections.kt)

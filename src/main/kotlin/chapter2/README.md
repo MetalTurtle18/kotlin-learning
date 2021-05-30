@@ -1,4 +1,4 @@
-# Chapter 2
+# Chapter 2: Kotlin basics
 This chapter of the book addresses Kotlin basics
 
 ## Contents
