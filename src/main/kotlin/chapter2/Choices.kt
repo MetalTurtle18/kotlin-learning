@@ -48,7 +48,7 @@ class Sum(val left: Expr, val right: Expr) : Expr
  * This function evaluates a bunch of expressions recursively using smart casts
  */
 fun eval(expr: Expr): Int {
-    if (expr is Num) // When we check if expr is of type Num, it automatically casts it to that type
+    if (expr is Num) // When we check if expr is of type Num, it automatically casts it to that type. This is a smart cast
         return expr.value // Then its property "value" can be accessed
     if (expr is Sum) // Same thing down here
         return eval(expr.left) + eval(expr.right)
