@@ -13,3 +13,4 @@ I will try to comment my code and organize it well. I will also try to create RE
   * 2.5: Exceptions in Kotlin | [`Exceptions.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter2/Exceptions.kt)
 * Chapter 3: [Defining and calling functions](https://github.com/MetalTurtle18/kotlin-learning/tree/main/src/main/kotlin/chapter3)
   * 3.1: Creating collections in Kotlin | [`Collections.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter3/Collections.kt)
+  * 3.2: Making functions easier to call | [`CallingFunctions.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter3/CallingFunctions.kt)
