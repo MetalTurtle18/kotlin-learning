@@ -7,3 +7,4 @@ This chapter of the book addresses Kotlin functions
 * 3.3: Adding methods to other people’s classes: extension functions and properties | [`Extensions.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter3/Extensions.kt)
 * 3.4: Working with collections: varargs, infix calls, and library support | [`WorkingWithCollections.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter3/WorkingWithCollections.kt)
 * 3.5: Working with strings and regular expressions | [`StringsRegex.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter3/StringsRegex.kt)
+* 3.6: Making your code tidy: local functions and extensions | [`LocalFunctions.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter3/LocalFunctions.kt)
