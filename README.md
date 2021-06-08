@@ -18,3 +18,5 @@ I will try to comment my code and organize it well. I will also try to create RE
   * 3.4: Working with collections: varargs, infix calls, and library support | [`WorkingWithCollections.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter3/WorkingWithCollections.kt)
   * 3.5: Working with strings and regular expressions | [`StringsRegex.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter3/StringsRegex.kt)
   * 3.6: Making your code tidy: local functions and extensions | [`LocalFunctions.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter3/LocalFunctions.kt)
+* Chapter 4: [Classes, objects, and interfaces](https://github.com/MetalTurtle18/kotlin-learning/tree/main/src/main/kotlin/chapter4)
+  * 4.1: Defining class hierarchies | [`ClassHierarchies.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter4/ClassHierarchies.kt)
