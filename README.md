@@ -36,3 +36,4 @@ I will try to comment my code and organize it well. I will also try to create RE
 * Chapter 7: [Operator overloading and other conventions](https://github.com/MetalTurtle18/kotlin-learning/tree/main/src/main/kotlin/chapter7)
   * 7.1: Overloading arithmetic operators | [`ArithmeticOperators.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter7/ArithmeticOperators.kt)
   * 7.2: Overloading comparison operators | [`ComparisonOperators.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter7/ComparisonOperators.kt)
+  * 7.3: Conventions used for collections and ranges | [`CollectionsRanges.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter7/CollectionsRanges.kt)
