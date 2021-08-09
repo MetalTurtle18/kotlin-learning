@@ -1,4 +1,4 @@
-<!--Chpater completion indicators-->
+<!--Chapter completion indicators-->
 ![](https://img.shields.io/badge/Chapter-1-blue)
 ![](https://img.shields.io/badge/Chapter-2-brightgreen)
 ![](https://img.shields.io/badge/Chapter-3-brightgreen)
@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Chapter-5-brightgreen)
 ![](https://img.shields.io/badge/Chapter-6-brightgreen)
 ![](https://img.shields.io/badge/Chapter-7-brightgreen)
-![](https://img.shields.io/badge/Chapter-8-red)
+![](https://img.shields.io/badge/Chapter-8-yellow)
 ![](https://img.shields.io/badge/Chapter-9-red)
 ![](https://img.shields.io/badge/Chapter-10-red)
 ![](https://img.shields.io/badge/Chapter-11-red)
@@ -52,3 +52,5 @@ I will try to comment my code and organize it well. I will also try to create RE
   * 7.3: Conventions used for collections and ranges | [`CollectionsRanges.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter7/CollectionsRanges.kt)
   * 7.4: Destructuring declarations and component functions | [`Destructuring.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter7/Destructuring.kt)
   * 7.5: Reusing property accessor logic: delegated properties | [`DelegatedProperties.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter7/DelegatedProperties.kt)
+* Chapter 8: [Higher-order functions: lambdas as parameters and return values](https://github.com/MetalTurtle18/kotlin-learning/tree/main/src/main/kotlin/chapter8)
+  * 8.1: Declaring higher-order functions | [`HigherOrderFunctions.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter8/HigherOrderFunctions.kt)
