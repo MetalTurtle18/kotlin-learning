@@ -1,3 +1,16 @@
+<!--Chpater completion indicators-->
+![](https://img.shields.io/badge/Chapter-1-blue)
+![](https://img.shields.io/badge/Chapter-2-brightgreen)
+![](https://img.shields.io/badge/Chapter-3-brightgreen)
+![](https://img.shields.io/badge/Chapter-4-brightgreen)
+![](https://img.shields.io/badge/Chapter-5-brightgreen)
+![](https://img.shields.io/badge/Chapter-6-brightgreen)
+![](https://img.shields.io/badge/Chapter-7-brightgreen)
+![](https://img.shields.io/badge/Chapter-8-red)
+![](https://img.shields.io/badge/Chapter-9-red)
+![](https://img.shields.io/badge/Chapter-10-red)
+![](https://img.shields.io/badge/Chapter-11-red)
+
 # Kotlin Learning
 In this repository I will document my Kotlin learning process as I read through [*Kotlin in Action*, by Dmitry Jemerov and Svetlana Isakova](https://www.manning.com/books/kotlin-in-action).
 
