@@ -3,3 +3,4 @@ This chapter of the book addresses function types, inline functions, and more.
 
 ## Contents
 * 8.1: Declaring higher-order functions | [`HigherOrderFunctions.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter8/HigherOrderFunctions.kt)
+* 8.2: Inline functions: removing the overhead of lambdas | [`InlineFunctions.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter8/InlineFunctions.kt)

@@ -54,3 +54,4 @@ I will try to comment my code and organize it well. I will also try to create RE
   * 7.5: Reusing property accessor logic: delegated properties | [`DelegatedProperties.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter7/DelegatedProperties.kt)
 * Chapter 8: [Higher-order functions: lambdas as parameters and return values](https://github.com/MetalTurtle18/kotlin-learning/tree/main/src/main/kotlin/chapter8)
   * 8.1: Declaring higher-order functions | [`HigherOrderFunctions.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter8/HigherOrderFunctions.kt)
+  * 8.2: Inline functions: removing the overhead of lambdas | [`InlineFunctions.kt`](https://github.com/MetalTurtle18/kotlin-learning/blob/main/src/main/kotlin/chapter8/InlineFunctions.kt)
